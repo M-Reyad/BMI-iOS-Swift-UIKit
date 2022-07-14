@@ -3,6 +3,9 @@
 ![1024](https://user-images.githubusercontent.com/93882864/178015940-f6b7bd35-2bf3-4851-8e38-28738d381640.png)
 
 Free Body Mass Index calculator gives out the BMI value and categorizes BMI based on provided information from WHO and CDC for both adults and children.
+Based on the user’s weight and height it calculates their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies.
+
+### Design Pattern for this App: MVC
 
 ## Live Shots
 
